@@ -7,3 +7,5 @@ NOTE THE 3D PRINTED VERSION IS DIFFERENT FROM THE CNC VERSION, BUT CAN BE MACHIN
 ## THE CNC VERSION IS *NOT* TO BE 3D PRINTED
 
 For the 3D Printed version, it uses a [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard).
+
+The printed version also has a JST cable hider if you want to use that.
