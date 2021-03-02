@@ -10,4 +10,5 @@ For the 3D Printed version, it uses a [Unified Daughterboard](https://github.com
 The non-JST 3D printed version is not tested for alignment.
 
 The printed version also has a JST cable hider if you want to use that.(Not Tested)
+
 I *HIGHLY* recommend using gmk pcb mount clip ins for spacebar and backspace
