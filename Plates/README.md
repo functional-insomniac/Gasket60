@@ -1,10 +1,15 @@
 # Gasket60 Plates
 ## These plates are not tested, if they are, it will be updated.
 
-The plates included are either ALPS or MX compatible.
-ALPS plates have a fixed layout, MX has a plate with multiple layouts.
-ALPS plate should be printed at 1.2mm
-MX plate should be printed at 1.5mm
+The plates included are MX Compatible.
 
-![Layout](https://i.imgur.com/rvbts0P.png)
+![Layout](https://i.imgur.com/h2cACHP.png)
+
 MX Universal Plate Compatibility
+
+
+
+
+![Layout](https://i.imgur.com/RLcuAwD.png)
+
+MX Half Plate ANSI Compatibilty
