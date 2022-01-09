@@ -14,6 +14,6 @@ You can find the PCB [here](https://hineybush.com/products/h60-group-buy) or [he
 
 # Specs
 
-* O-Ring Gasket Mount [AS568-029 FS70 Fluorosilicone (FVMQ) 70 Duro O-Ring](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=367_104_107&products_id=4587).
+* O-Ring Gasket Mount [AS568-029 FS70 Fluorosilicone (FVMQ) 70 Duro O-Ring](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=367_104_107&products_id=4587). (size may vary)
 * Typing angle - 6.9 Degrees
 * Supports most standard 60% plates
