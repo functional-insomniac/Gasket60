@@ -1,5 +1,5 @@
 # Gasket60
-## 60% Gasket Board w/ Unikorn Mount
+## 60% Gasket Board w/ O-Ring Gasket Mount
 
 
 This board is designed to be a cheap 60% board with a relatively even typing feel and is greatly inspired by the Unikorn and OTD 356 Mini.
