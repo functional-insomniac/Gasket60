@@ -1,14 +1,10 @@
 # Case Files
 
-Included is a CNC and a 3D printable version of the board.
+Included is a v1 and v2.
 Both are meant to be a single piece for the case and are based on the Bakeneko 60%.
+The goal was to eliminate the use of a daughterboard and use the more traditional left side usb port found on most gh60 pcbs.
 
-NOTE THE 3D PRINTED VERSION IS DIFFERENT FROM THE CNC VERSION, BUT CAN BE MACHINED
-## THE CNC VERSION IS *NOT* TO BE 3D PRINTED
-
-For the 3D Printed version, it uses a [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard).
-The non-JST 3D printed version is not tested for alignment.
-
-The printed version also has a JST cable hider if you want to use that.(Not Tested)
+Both v1 and v2 should be able to be machined, v1 having a prototype available.
+## V2 IS *NOT* TO BE 3D PRINTED
 
 I *HIGHLY* recommend using gmk pcb mount clip ins for spacebar and backspace
